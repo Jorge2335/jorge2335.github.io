@@ -2,7 +2,7 @@
 <head>
 <title> Biografia Jorge Luis Borges </title>
 </head>
-<body bgcolor="#C3EFB6" text="black">
+<body bgcolor="#white" text="black">
 <center><img src="jorge.jpeg "width="620" height="280"></center>
 <center><h3><p>Jorge Francisco Isidro Luis Borges Acevedo Buenos Aires, Argentina 1899 – Ginebra, Suiza, 1986.</center><h3></p>
 <center><p><h1>Biografía</h1></p></center>
