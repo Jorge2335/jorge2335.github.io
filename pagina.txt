@@ -6,7 +6,7 @@
 <center><img src="borges.jpg "width="620" height="280"></center>
 
 
-<center><img src="biografía.jpg "width="620" height="580"></center>
+<center><img src="biografía.jpg" "width="620" height="580"></center>
 
 
 <center><img src="joven.jpg "width="620" height="580"></center>
